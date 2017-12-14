@@ -50,7 +50,7 @@ struct var_t {
 } ;
 
 extern var_t R;
-extern EEMEM   var_t           E;
+extern EEMEM   var_t E;
 extern uint32_t get_vfo(void);
 #endif
 
