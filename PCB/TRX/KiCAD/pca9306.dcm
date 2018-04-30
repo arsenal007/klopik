@@ -1,0 +1,7 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PCA9306
+D Dual Bidirectional I2CBus and SMBus Voltage-Level Translator
+$ENDCMP
+#
+#End Doc Library

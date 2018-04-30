@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name TRX_klopik)(type KiCad)(uri /home/arsenal/usr/HAM/SUPER/klopik/TRX/klopik_ver.1.07/libs/TRX_klopik.pretty/)(options "")(descr ""))
+)

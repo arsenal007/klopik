@@ -1,0 +1,11 @@
+** Drc report for /home/arsenal/usr/HAM/SUPER/klopik/TRX/klopik_ver.1.07/TRX_klopik.kicad_pcb **
+** Created on 2017-08-26 05:56:09 **
+
+** Found 1 DRC errors **
+ErrType(15): Two track ends too close
+    @ (35,300 mm,72,800 mm): Track 0,300 mm, net [] (0) on layer F.Cu, length: 1,800 mm
+    @ (32,620 mm,73,140 mm): Track 0,300 mm, net [GND] (1) on layer F.Cu, length: 2,660 mm
+
+** Found 0 unconnected pads **
+
+** End of Report **
