@@ -1,4 +1,4 @@
-update=Sat 24 Mar 2018 15:50:20 CET
+update=Thu 10 May 2018 06:12:17 CEST
 version=1
 last_client=kicad
 [pcbnew]
@@ -69,6 +69,5 @@ LibName27=contrib
 LibName28=valves
 LibName29=kicad-lib/components/sparkfun
 LibName30=libs/TRXklopik
-LibName31=relay_1rt
-LibName32=kicad-libs/components/Nokia_5110-3310_LCD/nokia_5110-3310_lcd
-LibName33=Connector
+LibName31=Connector
+LibName32=Transistor
